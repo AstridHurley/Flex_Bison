@@ -1,5 +1,11 @@
 # Flex_Bison
+## Integrantes
+Eduardo Díaz del Castillo
+
+Astrid Hurley
+
 Laboratorio 4 - Diseño de compiladores
+
 
 ![alt text](https://github.com/ryu-ed/Flex_Bison/raw/master/images/cmd_files.PNG " ")
 
